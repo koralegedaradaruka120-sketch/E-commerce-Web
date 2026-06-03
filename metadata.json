@@ -1,0 +1,6 @@
+{
+  "name": "MAISON Luxury Fashion",
+  "description": "An ultra-premium, minimalist editorial luxury fashion e-commerce storefront featuring curated campaign collections, immersive product catalogs, interactive wishlist, slide-out checkout drawer, and seamless visual storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
